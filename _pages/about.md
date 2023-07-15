@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Anqi Huo is a Research 0 students and working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of [Dr.Guyue Li](https://cyber.seu.edu.cn/lgy1/list.htm). 
+Anqi Huo is a Research 0 students and working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of [Dr. Guyue Li](https://cyber.seu.edu.cn/lgy1/list.htm). 
 
 
 Position held
