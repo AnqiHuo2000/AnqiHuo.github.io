@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "cc"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "AnqiHuo"
 description              : &description "personal description"
